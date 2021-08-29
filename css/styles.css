@@ -385,6 +385,7 @@ ul {
 .footer-join-text {
   font-family: Roboto;
   text-transform: uppercase;
+  font-weight: bold;
   line-height: 1.33;
 
   color: var(--primary-white-color);
